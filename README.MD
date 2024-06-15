@@ -1,7 +1,6 @@
 <p align="center">
     <img width="100" src=".github/assets/banner.png">
 </p>
-https://github.com/Natanrezendee/prompts-for-article-generate-by-ia/blob/main/Seu%20jardim.png
 
 <p align="center">
   <img 
